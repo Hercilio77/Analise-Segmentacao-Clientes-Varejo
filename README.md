@@ -33,5 +33,10 @@ Impacto estimado: Identificação de oportunidades de recuperação de receita a
 /sql: Scripts de consulta e manipulação de banco de dados utilizados na extração.
 
 /dashboard: Arquivo do Power BI (.pbix) com a visualização final.
+
+## Visualização do Dashboard
+Abaixo, a visão gerencial desenvolvida no Power BI:
+
+images/dashboard_final.jpg
 requirements.txt: Lista de dependências e bibliotecas necessárias.
 
