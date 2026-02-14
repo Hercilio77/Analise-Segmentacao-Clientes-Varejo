@@ -34,10 +34,11 @@ Impacto estimado: Identificação de oportunidades de recuperação de receita a
 
 /dashboard: Arquivo do Power BI (.pbix) com a visualização final.
 
+requirements.txt: Lista de dependências e bibliotecas necessárias.
+
 ## Visualização do Dashboard
 Abaixo, a visão gerencial desenvolvida no Power BI:
 
 <img width="1278" height="711" alt="dashboard_final jpg" src="https://github.com/user-attachments/assets/0c80bd32-9eba-4753-a99e-a56669912544" />
 
-requirements.txt: Lista de dependências e bibliotecas necessárias.
 
