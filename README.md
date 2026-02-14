@@ -37,6 +37,7 @@ Impacto estimado: Identificação de oportunidades de recuperação de receita a
 ## Visualização do Dashboard
 Abaixo, a visão gerencial desenvolvida no Power BI:
 
-images/dashboard_final.jpg
+<img width="1278" height="711" alt="dashboard_final jpg" src="https://github.com/user-attachments/assets/0c80bd32-9eba-4753-a99e-a56669912544" />
+
 requirements.txt: Lista de dependências e bibliotecas necessárias.
 
